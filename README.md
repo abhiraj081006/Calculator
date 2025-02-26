@@ -1,5 +1,5 @@
 # Calculator Program
-This program is designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It was created by Abhinav Raj. You can contact the developer at E-Mail - abhinavraj081006@gmail.com.
+This program is designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It was created by Abhinav Raj.
 
 # Features
 Addition
